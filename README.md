@@ -10,7 +10,7 @@ Passionate Software Engineering undergraduate with strong foundations in **Data 
 
 Interested in building scalable applications, solving real-world problems, and exploring modern technologies like **Artificial Intelligence, Cloud Computing, and Backend Systems**.  
 
-Currently focused on becoming a high-impact **Software Development Engineer (SDE)**.
+Currently focused on becoming a high-impact **Software Development and Data Analytics Engineer**.
 
 ---
 
